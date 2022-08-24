@@ -7,13 +7,11 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&color=red)
 
 
-> Below is the Template Which is to made to be converted into website Using Pure **HTML** and **CSS**.
-
-![Design](./assets/thumbnail.png) 
-
 
 
 > ## Output 
+
+![output short video](./assets/ezgif.com-gif-maker%20(3).gif)
 
 
 ![](./assets/output.png)
@@ -23,7 +21,7 @@
 ##   
 
 
- ## 🚀 Project 1 Live Link 
+ ## 🚀 Project 13 Live Link 
  
 - This Project is been Hosted on Netlify. [Project Live Link](https://sass-landing-ui.netlify.app/)
 
